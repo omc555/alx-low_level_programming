@@ -7,8 +7,8 @@
  * @s1: string to be joined to
  * @s2: string to join s1
  * Return: pointer to newly allocated space in memory
- * ontaining concatenated string , or NULL if error
- * in concatenating
+ * 	   ontaining concatenated string , or NULL if error
+ * 	   in concatenating
  */
 char *str_concat(char *s1, char *s2)
 {
